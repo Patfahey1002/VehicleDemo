@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jr4SHBhvELY0lP0ci9KGlvOG7jDMy3/8lyoFxt+hhYjlH/cBw4RwfeJ6TwWiUjIFhI9URufR33aP7R6KJWycAw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CDelo\\Nelnet_projects\\VehicleLot\\VehicleLot.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CDelo\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
